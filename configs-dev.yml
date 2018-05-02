@@ -1,4 +1,5 @@
 name: mickey
 age: 3
 env: dev
-updateby:jack
+updateby: jack
+home.city: 北京
